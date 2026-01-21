@@ -19,6 +19,7 @@ aggiornare il prorpio branch locale
 `git switch nome_branch` o `git checkout nome_branch`
 `git merge develop` 
 
+oppure cancella e ricrealo ogni volta
 
 ora puoi lavorare tranquillo :)
 
