@@ -1,4 +1,4 @@
-#READMEinstruction
+# READMEinstruction
 
 Work instruction for coding flow:
 Un po di comandi e istruzioni comode che mi dimentico sempre.
@@ -16,9 +16,9 @@ aggiornare branch locale
 
 crea un branch per lavorare, (crei un branch ramificato da develop con tutti i file di develop)
 `git switch -c nome.branch`
-|
-|
-|
+
+---
+
 finito di lavorare
 per apportare le modifiche in develop:
 `git switch develop`
