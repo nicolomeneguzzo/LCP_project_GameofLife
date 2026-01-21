@@ -3,6 +3,7 @@
 Repository per il progetto finale di LCP mod.A 
 
 Gitinstruction:
+Un po di comandi e istruzioni comode che mi dimentico sempre.
 
 ognuno si crei un branch in cui lavorare, dentro al branch develope usare il comando
 `git switch -c nome_branch`
