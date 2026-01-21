@@ -17,7 +17,6 @@ nel branch develope per aggiornare il branch locale
 
 aggiornare il prorpio branch locale
 `git switch nome_branch` o `git checkout nome_branch`
-`git fetch
 `git merge develop` 
 
 
