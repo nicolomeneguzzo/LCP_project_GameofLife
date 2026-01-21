@@ -1,2 +1,3 @@
 # LCP_project_GameofLife
-repository per lavorare al progetto finale di 
+
+Repository per il progetto finale di LCP mod.A 
