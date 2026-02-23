@@ -11,7 +11,7 @@ set up:
 git routine:
 
 aggiornare branch locale
-`git switch develop
+`git switch develop`
 `git pull`
 
 crea un branch per lavorare, (crei un branch ramificato da develop con tutti i file di develop)
