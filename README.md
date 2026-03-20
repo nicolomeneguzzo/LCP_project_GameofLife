@@ -57,12 +57,10 @@ Through this project, the team developed:
 
 ---
 
-## Project Goals
+## References
 
-The main objectives of this project were:
-
-* To implement a performant simulation of a cellular automaton
-* To explore emergent complexity from simple rules
-* To apply computational and analytical tools to study dynamical systems
+- Johnston, N., & Greene, D. (2022).  
+  *Conway's Game of Life: Mathematics and Construction*.  
+  Available at: https://conwaylife.com/book/
 
 ---
